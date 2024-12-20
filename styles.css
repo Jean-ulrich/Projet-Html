@@ -37,7 +37,7 @@ header nav ul li a:hover {
     color: #ff4136;
 }
 
-#about video {
+.about video {
     max-width: 100%; 
     width: 850px; 
     height: auto; 
@@ -54,7 +54,7 @@ section {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-section#home h1 {
+section.home h1 {
     color: #001f3f;
 }
 
